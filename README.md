@@ -1,9 +1,9 @@
-#TIC-TAC-TOE 
+# TIC-TAC-TOE 
 
-##How to execute
+## How to execute
 ```bash
 python3 tictaco3.py
 ```
 
-##Sample Output
+## Sample Output
 ![](Output.png)

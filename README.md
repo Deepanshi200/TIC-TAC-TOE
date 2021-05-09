@@ -1,4 +1,4 @@
-#TIK-TAK-TOE 
+#TIC-TAC-TOE 
 
 ##How to execute
 ```bash

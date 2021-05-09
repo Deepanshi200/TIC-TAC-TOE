@@ -2,7 +2,7 @@
 
 ##How to execute
 ```bash
-python3 tiktaco3.py
+python3 tictaco3.py
 ```
 
 ##Sample Output
